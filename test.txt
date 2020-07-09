@@ -1,6 +1,2 @@
-his name ispramod
-his age is 25
-[master 36c60ca] testfile
- 2 files changed, 17 insertions(+)
- create mode 100644 test.sh
- create mode 100644 test.txt
+his name isprajwal
+his age is 21
