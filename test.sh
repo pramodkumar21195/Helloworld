@@ -6,6 +6,7 @@ print ()
 {
 echo "his name is"$name
 echo "his age is "$age
+git init
 git add .
 git commit -m "testfile"
 git push -u orgin master
